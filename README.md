@@ -1,0 +1,1 @@
+ A simple todo App to learn react, persisting data using useState and useEffect.
